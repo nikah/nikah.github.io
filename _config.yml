@@ -1,0 +1,66 @@
+
+
+# Site Settings
+title: 						"Aksara & Aksari"
+email: 						"lorosukmo@live.com"
+author: 					"Khoirul Aksara"
+description: 				"Menjalin Janji Suci"
+baseurl: 					""
+url: 						"https://nikah.github.io/"
+logourl: 					"https://avatars3.githubusercontent.com/u/4507180?v=3&s=460"		
+fa-logo: 					"fa-code"
+paginate: 					5
+tgl_nikah: 					"2012-10-28 19:30:00" # format yyyy-mm-dd hh:mm:ss | contoh: 2020-02-02 00:00:00 
+
+
+# Groom
+groom_name: 				"Khoirul Aksara"
+groom_fb: 					"https://fb.me/khoirulaksara"
+groom_tw: 					"https://twitter.com/khoirulaksara"
+groom_ig: 					"https://instagram.com/khoirulaksara"
+groom_bio: 					"Tukang ketik amatiran dan pemuja keindahan wanita"
+groom_image: 				"https://pbs.twimg.com/profile_images/1056455039420575744/uhR1pZN3_400x400.jpg"
+
+
+# Bridge
+bridge_name: 				"Yossi Adhyaksari"
+bridge_fb: 					"https://fb.me/yossiadhyaksari"
+bridge_tw: 					"https://twitter.com/yossiadhyaksari"
+bridge_ig: 					"https://instagram.com/yossiadhyaksari"
+bridge_bio: 				"Tukang ketik amatiran dan pemuja keindahan wanita"
+bridge_image: 				"https://pbs.twimg.com/profile_images/1079573943042813952/sXoKuJX5_400x400.jpg"
+
+
+# Social Settings
+twitter_url: 				"https://twitter.com/XaHaX"
+facebook_url: 				"https://facebook.com/"
+github_url:  				"https://github.com/lorosukmo"
+youtube_url:  				"https://youtube.com"
+dribbble_url:  				"https://dribbble.com"
+googleplus_url: 			"https://google.com/plus"
+instagram_url:  			"https://instagram.com/loro.sukmo"
+pinterest_url:  			"https://pinterest.com"
+linkedin_url:  				"https://linkedin.com"
+
+
+# Theme Settings
+theme_disqus_shortname: 	"lorosukmo"
+theme_google_comments: 		false
+theme_analytics_id: 		"UA-28077903-4"
+theme_analytics_domain: 	"kalingga.github.io"
+theme_reading_time: 		true
+theme_autoload_comments: 	false
+theme_always_show_nav: 		false
+
+
+# SASS Settings
+# DO NOT MODIFY
+sass:
+ sass_dir: "assets/css/"
+ style: :compressed
+
+
+# Build Settings
+markdown: 					kramdown
+permalink: 					pretty
+
